@@ -4,7 +4,7 @@ A WordPress project for sharing personal stories, thoughts, and experiences rela
 ## Database Import Instructions
 1. **Create a Database**: Open phpMyAdmin and create a new database named `beyondthesoul`.
 2. **Import the SQL File**:
-   - Go to the `Database` folder in the cloned repository.
+   - Go to the `Database` folder.
    - Use phpMyAdmin to import `beyondthesoul.sql` into the newly created database.
 
 3. **Configure WordPress**:
